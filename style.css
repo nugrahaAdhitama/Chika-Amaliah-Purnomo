@@ -1,0 +1,17 @@
+body {
+    overflow-x: hidden;
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #C6BCD6;
+}
+
+#album {
+    background-color: #C6BCD6;
+}
+
+section {
+    padding-top: 6rem;
+    overflow-x: hidden;
+}
